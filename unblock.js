@@ -17,8 +17,8 @@ page.document.write(`<!DOCTYPE html>
 </html>`);
 
 let iframe = page.document.getElementById('embed');
-iframe.width = "100%";
-iframe.height = "100%";
+iframe.width = "1280";
+iframe.height = "720";
 iframe.src = url;
 
 
