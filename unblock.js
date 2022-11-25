@@ -21,4 +21,9 @@ iframe.width = "1280";
 iframe.height = "720";
 iframe.src = url;
 
+/*
+bookmarklet
 
+javascript:fetch('https://raw.githubusercontent.com/verizya/scripts/main/unblock.js').then(response => response.text()).then(script => eval(script));
+
+*/
