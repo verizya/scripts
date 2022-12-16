@@ -13,6 +13,6 @@ page.document.write(contents);
 /*
 bookmarklet
 
-javascript:fetch('https://raw.githubusercontent.com/verizya/scripts/main/unblock.js').then(response => response.text()).then(script => eval(script));
+javascript:fetch('https://pastebin.com/raw/sC8RAqsH').then(response => response.text()).then(script => eval(script));
 
 */
